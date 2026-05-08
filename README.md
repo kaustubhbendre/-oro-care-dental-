@@ -99,6 +99,8 @@ Install these for the best development experience:
 | **React CountUp** | Animated numbers |
 | **React Intersection Observer** | Scroll animations |
 
+# Redeploy trigger
+
 ---
 
 ## 📁 Project Structure
